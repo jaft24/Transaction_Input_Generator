@@ -1,7 +1,7 @@
 /*   
 Author: Jaleta F. Tesgera 
 
-Code Objective: To generate minimum , maximum and ending balances by monthYear for all customers from the data given by JustWorks.
+Code Objective: To generate minimum , maximum and ending balances by monthYear for all customers from the data.
 
 Instructions are in the Read Me text files.
 
@@ -31,7 +31,7 @@ with the same steps of calculating the minimum , maximum and ending balances aga
 Result
 ------
 Result of the calculation on the run page, and a new csv file in the output folder named "Result.csv".
-I have also started a rough draft for the GUI, "Insight_Generator_GUI" which is in the same directory, for future deve;lopment into an app.
+I have also started a rough draft for the GUI, "Insight_Generator_GUI" which is in the same directory, for future development into an app.
 */
 
 package insight_generator;
@@ -69,7 +69,7 @@ public class Insight_Generator {
         /* Additional Test Sources: 
            Instruction: Replace the "sourceFile" string with the file sources below
    
-           Original File from JustWorks: "../Input.csv"
+           Original File: "../Input.csv"
    
            Test File 1 (Missing Id): "../TestFiles/Input - NoID.csv"
            Test File 2 (Missing Date): "../TestFiles/Input - NoDate.csv"
