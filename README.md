@@ -4,9 +4,9 @@ Author: Jaleta F. Tesgera
 Project: Generating insight from a list of banking transactions
 -----------------
 
-Code Objective: To generate minimum , maximum and ending balances by monthYear
+Code Objective:
 --------------
-for all customers from the data. 
+ To generate minimum , maximum and ending balances by monthYear for all customers from the data. 
 
 
 Refrences
